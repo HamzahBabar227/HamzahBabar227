@@ -1,65 +1,18 @@
-<!-- ──────────────────────────────────────────────────────────────
-  Hamzah Babar • README.md • GitHub profile
-────────────────────────────────────────────────────────────────── -->
+# 💫 About Me:
+🔭 I’m currently working on<br>Pursuing a Bachelor of Commerce (Information Systems) at McMaster University, deepening my expertise in data analytics and visualization.<br><br>👯 I’m looking to collaborate on<br>Internship projects that involve data-driven decision-making, dashboard development, and process optimization.<br><br>🤝 I’m looking for help with<br>Connecting with industry mentors for insights into real-world analytics workflows and best practices.<br><br>🌱 I’m currently learning<br>Advanced SQL, Python for data analysis, and Power BI dashboarding to translate raw data into actionable insights.<br><br>💬 Ask me about<br>Retail & operations efficiency—500+ SKUs/day at 100% accuracy (RONA), community fundraising logistics, and improvising data solutions on the fly.<br><br>⚡ Fun fact<br>I helped raise $10.5 million for the Halton Islamic Association, coordinating over 50 events and managing volunteer teams—proving my passion for teamwork and impact-driven work.
 
-<p align="center">
-  <!-- 👉🏽  place profile.jpg inside /assets  -->
-  <img src="assets/profile.jpg" width="180" height="180"
-       style="border-radius:50%; object-fit:cover;"
-       alt="Hamzah Babar head-shot">
-</p>
 
-<h1 align="center">👋 Hey, I’m <strong>Hamzah Babar</strong></h1>
-<p align="center">
-  Level II Commerce Student @ McMaster (Information Systems)  •  Aspiring Data / Product Analyst <br/>
-  <em>Learning to learn &mdash; and turning insights into positive impact</em>
-</p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/hamzah-babar/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hamzahbabar227@gmail.com) 
+
+# 💻 Tech Stack:
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=HamzahBabar227&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=HamzahBabar227&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=HamzahBabar227&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=HamzahBabar227&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🚀 About Me
-- **Retail & Ops Pro** &nbsp;&mdash;&nbsp;Managed **500 + SKUs/day** at <strong>100 % accuracy</strong> and 98 % CSAT (RONA)  
-- **Community Builder** &nbsp;&mdash;&nbsp;Helped raise **$10.5 M** for Halton Islamic Association  
-- **Lifelong Learner** &nbsp;&mdash;&nbsp;Power BI • SQL • Python • Excel   
-- **Seeking** &nbsp;&mdash;&nbsp;**Summer 2026 Internship** opportunities to deepen analytics & product skills  
-
-## 🛠️ Core Skill-Set
-| Category | Tools & Tech |
-| :-- | :-- |
-| **Languages & DB** | SQL · Python · SQLite |
-| **Analytics / BI** | Power BI · Excel (365) |
-| **Data Ops** | Intro Spark & AWS (self-study) |
-| **Soft Skills** | Agile teamwork · Stakeholder comms · Strategic planning |
-
-## 🎓 Education
-| Degree | Institution | Years |
-| :-- | :-- | :--: |
-| **B.Com. – Information Systems** | DeGroote School of Business, McMaster University | 2024 &ndash; 2028 |
-
-## 📜 Certifications <sup>(LinkedIn Learning / Coursera)</sup>
-| Track | Certificate | Year |
-| :-- | :-- | :--: |
-| **Data-Analytics Foundations** | Learning Data Analytics I – Foundations | 2025 |
-|  | Learning Data Analytics II | 2025 |
-| **Productivity & Core Tools** | Excel Essential Training (M365) | 2025 |
-| **Visualization** | Getting Started with Power BI | 2025 |
-|  | Power BI Essential Training (2022) | 2025 |
-| **SQL Path** | SQL for Non-Programmers | 2025 |
-|  | SQL for Data Science | 2025 |
-| **Statistics** | Statistics Foundations I | 2025 |
-|  | Statistics Foundations 1: The Basics | 2025 |
-| **Professional / Project** | Introduction to Career Skills in Data Analytics | 2025 |
-|  | Strategic Project Risk Management | 2025 |
-
-## 💼 Experience Snapshot
-**RONA Canada** — Sales & Customer Service (Sep 2022 – May 2025)  
-* 500 + SKUs/day scanned with 100 % pricing accuracy  
-* 200 + transactions/shift • 98 % customer-satisfaction  
-* Generated daily sales & inventory reports to guide promo tweaks  
-
-## 🌎 Volunteer Impact
-*Waterdown Muslim Community Centre* (2021- )— Led logistics for 100 + events; served 200 + families/yr  
-*Halton Islamic Association* (2016- )— Supported $10.5 M fundraising campaign and donor analytics  
-
-
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
